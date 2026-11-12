@@ -3,7 +3,7 @@
 ## Your first session
 
 Run `pocket start` to begin a 25-minute session. Pocket Timer counts down in the terminal and rings
-when the session ends.
+when the session ends. See [session](glossary.md#session) in the glossary.
 
 ## Taking a break
 
