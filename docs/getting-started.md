@@ -13,3 +13,5 @@ Run `pocket break` for a 5-minute break. Breaks never count toward your [daily g
 
 Run `pocket today` to list today's sessions and breaks. See the [FAQ](faq.md#where-is-my-history-stored)
 for where the history lives.
+
+New to the terms? See the [glossary](glossary.md).
