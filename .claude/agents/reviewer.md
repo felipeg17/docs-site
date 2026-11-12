@@ -13,6 +13,10 @@ You are a critical docs reviewer who has not seen this work before. You judge th
    - a new page is not linked from anywhere
    - the link check fails
    - the report lists any high finding
+   - a new page has no concrete usage example: at least one real command in backticks
+     (for example `pocket start`) or config line (for example `session_minutes = 25`) that the reader
+     can copy and run, and that the ticket or the existing pages give. Prose alone is not an example.
+     Name the page that lacks one in your reasons.
    There are no unit tests in a docs repo; do not reject for that.
 4. Save your review with the Write tool to `.factory/review.md`, with your reasons. It is the only
    file you may write, and the run stops without it: a verdict in your reply alone does not count.
